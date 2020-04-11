@@ -27,9 +27,14 @@ export default {
   cursor pointer
   font-size 1.3em
   line-height 0
+  max-width calc(100vw - 10px)
+  font-weight 600
 
   .tooltip-inner
+    cursor initial
     font-size 0.7em
+    font-weight normal
+    line-height 1.2
     background: black;
     color: white;
     border-radius: 16px;
@@ -55,6 +60,21 @@ export default {
       border-right-color: transparent !important;
       border-bottom-color: transparent !important;
       bottom: -5px;
+      left: calc(50% - 5px);
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
+
+  &[x-placement^="bottom"] {
+    margin-top: 5px;
+
+    .tooltip-arrow {
+      border-width: 0 5px 5px 5px;
+      border-left-color: transparent !important;
+      border-right-color: transparent !important;
+      border-top-color: transparent !important;
+      top: -5px;
       left: calc(50% - 5px);
       margin-top: 0;
       margin-bottom: 0;
