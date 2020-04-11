@@ -5,4 +5,5 @@
 <style lang="stylus">
 strong
   font-weight bold
+  white-space pre
 </style>

@@ -72,7 +72,7 @@ const TableOfContents: ComponentOptions<Vue> = {
       return h(
         'ul',
         items.map(item =>
-          h('li', [
+          h('li', {style: {listStyleType: item.title ? 'initial' : 'none'}}, [
             h(
               'RouterLink',
               {

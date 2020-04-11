@@ -2,7 +2,7 @@
   <div class="main-container">
     <Content />
 
-    <BackToTop />
+    <ScrollToTop />
   </div>
 </template>
 

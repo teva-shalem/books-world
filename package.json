@@ -6,9 +6,10 @@
   "scripts": {
     "dev": "vuepress dev docs --no-clear-screen",
     "build": "vuepress build docs",
-    "deploy": "surge docs/.vuepress/dist teva-shalem.surge.sh"
+    "deploy": "yarn build && surge docs/.vuepress/dist teva-shalem.surge.sh"
   },
   "dependencies": {
+    "v-tooltip": "^2.0.3",
     "vuepress-theme-derech-hapeima": "file:docs/.vuepress/theme"
   },
   "devDependencies": {
