@@ -1,0 +1,5 @@
+{
+  "name": "vuepress-theme-derech-hapeima",
+  "version": "1.0.0",
+  "main": "layouts/Layout.vue"
+}
