@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{39:function(t,e,n){"use strict";n.r(e);var s=n(0),a=Object(s.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"chapter-opening"},[this._t("default")],2)}),[],!1,null,"3490bd60",null);e.default=a.exports}}]);
