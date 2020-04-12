@@ -1,14 +1,13 @@
 <template>
-  <sup class="tooltip" v-tooltip="{
-    content: content,
-    placement: 'top-end',
-    trigger: 'click',
-    popperOptions: {
-      modifiers: {
-        preventOverflow: { enabled: true },
-      },
-    }
-  }">*</sup>
+<v-popover
+  placement="top-end"
+  trigger='click'
+  :content="this.$slots.default"
+>
+  <sup class="tooltip tooltip-target">*</sup>
+
+  <template slot="popover"><slot></slot></template>
+</v-popover>
 </template>
 
 <script lang="ts">
@@ -16,13 +15,16 @@ export default {
   props: {
     content: {
       type: String,
-      required: true,
+      required: false,
     }
   }
 }
 </script>
 
 <style lang="stylus">
+.v-popover
+    display inline
+
 .tooltip
   cursor pointer
   font-size 1.3em
@@ -39,7 +41,6 @@ export default {
     color: white;
     border-radius: 16px;
     padding: 5px 10px 4px;
-    line-height 1em
 
   .tooltip-arrow {
     width: 0;
@@ -81,22 +82,6 @@ export default {
     }
   }
   
-  &.popover {
-    $color: #f9f9f9;
-
-    .popover-inner {
-      background: $color;
-      color: black;
-      padding: 24px;
-      border-radius: 5px;
-      box-shadow: 0 5px 30px rgba(black, .1);
-    }
-
-    .popover-arrow {
-      border-color: $color;
-    }
-  }
-
   &[aria-hidden='true'] {
     visibility: hidden;
     opacity: 0;
