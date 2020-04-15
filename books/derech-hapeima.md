@@ -3,12 +3,14 @@ title: דרך הפעימה
 permalink: /derech-hapeima
 ---
 
-<Img :path="'cover.jpg'" style="max-height: 90vh;margin: 0 auto;display: block;"></Img>
 <div style="text-align: center">
-<h1>דרך הפעימה</h1>
-<h2>חיים דרך טבע</h2>
-<h3>דוד ישראל כהן - יוצר ומורה פעימה</h3>
+  <h1>דרך הפעימה</h1>
+  <h2>חיים דרך טבע</h2>
+  <h3>דוד ישראל כהן - יוצר ומורה פעימה</h3>
 </div>
+
+<Img :path="'cover.webp'" style="max-height: 90vh;margin: 0 auto;display: block;"></Img>
+
 <TableOfContents :includeLevel="[1, 2, 3]" />
 
 # 
@@ -50,7 +52,7 @@ permalink: /derech-hapeima
 דוד ישראל כהן.
 תל אביב, ינואר 2018.
 
-<Img :path="'david-symbol.jpg'"></Img>
+<Img :path="'david-symbol.webp'"></Img>
 
 <aside><i>האיורים בספר מאת המחבר</i></aside>
 
@@ -112,7 +114,7 @@ permalink: /derech-hapeima
 של הדיפה,
 של טיפוס לפסגה.
 
-<Img :path="'merkavah-arrows.jpg'"></Img>
+<Img :path="'merkavah-arrows.webp'"></Img>
 
 שחרור עולם במקום תפיסת עולם,
 והמקום בו שניהם אחד –
@@ -127,7 +129,7 @@ permalink: /derech-hapeima
 לכן הספר הזה מוקדש ליצירה הטובה מכולן – <Bigger>לחיים.
 באהבה.</Bigger>
 
-<Img :path="'kissing.jpg'"></Img>
+<Img :path="'kissing.webp'"></Img>
 
 ### על מילה וספר
 
@@ -196,7 +198,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'darwish.jpg'"></Img>
+<Img :path="'darwish.webp'"></Img>
 
 <Poem>
 
@@ -238,7 +240,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'movement.jpg'"></Img>
+<Img :path="'movement.webp'"></Img>
 
 <Poem>
 
@@ -431,7 +433,7 @@ permalink: /derech-hapeima
 <template #quoter>צ'נג מאן-צ'ינג</template>
 </Quote>
 
-<Img :path="'paradoxality.jpg'"></Img>
+<Img :path="'paradoxality.webp'"></Img>
 
 <Poem>
 
@@ -622,7 +624,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'drainage-divide.jpg'"></Img>
+<Img :path="'drainage-divide.webp'"></Img>
 
 <ChapterOpening>
 
@@ -637,7 +639,7 @@ permalink: /derech-hapeima
 
 ## 
 
-<Img :path="'mountain.jpg'"></Img>
+<Img :path="'mountain.webp'"></Img>
 
 <Quote>
 <p>'רעם חוזר ומופיע –
@@ -664,7 +666,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'classification.jpg'"></Img>
+<Img :path="'classification.webp'"></Img>
 
 <Poem>
 
@@ -698,7 +700,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'sanity.jpg'"></Img>
+<Img :path="'sanity.webp'"></Img>
 
 <Poem>
 
@@ -804,7 +806,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'forcefulness.jpg'"></Img>
+<Img :path="'forcefulness.webp'"></Img>
 
 <ChapterOpening>
 
@@ -941,7 +943,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'west.jpg'"></Img>
+<Img :path="'west.webp'"></Img>
 
 <Poem>
 
@@ -1069,7 +1071,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'disentanglement.jpg'"></Img>
+<Img :path="'disentanglement.webp'"></Img>
 
 ## זוויות
 
@@ -1158,7 +1160,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'caressing.jpg'"></Img>
+<Img :path="'caressing.webp'"></Img>
 
 <Poem>
 
@@ -1190,7 +1192,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'filipe.jpg'"></Img>
+<Img :path="'filipe.webp'"></Img>
 
 ## נווה מדבר
 
@@ -1292,7 +1294,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'nostalgia.jpg'"></Img>
+<Img :path="'nostalgia.webp'"></Img>
 
 <ChapterOpening>
 
@@ -1454,7 +1456,7 @@ permalink: /derech-hapeima
 
 ### מיפוי מרכבה אישי, מטאפיזיקה
 
-<Img :path="'personal-merkavah.jpg'"></Img>
+<Img :path="'personal-merkavah.webp'"></Img>
 
 <Poem>
 
@@ -1672,7 +1674,7 @@ permalink: /derech-hapeima
 
 <p></p>
 
-<Img :path="'david.jpg'"></Img>
+<Img :path="'david.webp'"></Img>
 
 ### פעימה
 

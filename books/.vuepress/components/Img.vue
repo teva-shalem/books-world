@@ -9,6 +9,7 @@ export default {
   },
 }
 </script>
+
 <style lang="stylus">
 img 
   max-width 100%
