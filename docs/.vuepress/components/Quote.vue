@@ -7,9 +7,8 @@
 
 <style lang="stylus" scoped>
 .blockquote
-  margin-top 2em
-  margin-bottom 2em
-
+  margin: 2em 1em 2em 0
+  
 .blockquote + .blockquote
   margin-top -2em
   

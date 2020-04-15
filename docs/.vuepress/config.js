@@ -1,18 +1,9 @@
 module.exports = {
-  // base: "/derech-peima/",
-  title: "דרך הפעימה",
+  title: "טבע שלם",
   theme: "derech-hapeima",
   evergreen: true,
   markdown: {
-    anchor: { permalink: false },
     extractHeaders: [ 'h1', 'h2', 'h3', 'h4' ]
-  },
-  configureWebpack: {
-    resolve: {
-      alias: {
-        // '@images': '../docs/.vuepress/images'
-      }
-    }
   },
   plugins: [
     '@vuepress/back-to-top',
@@ -31,7 +22,7 @@ module.exports = {
     }],
 
     ['@vuepress/google-analytics', {
-      'ga': '' // UA-00000000-0
+      'ga': 'UA-163403399-1' // UA-00000000-0
     }],
   ],
 }

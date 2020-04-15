@@ -1,12 +1,13 @@
 {
   "name": "derech-hapeima",
+  "description": "מערכת יחסים מופלאה, יחידה וקדושה, של הקליפות עם הלב. של האור ההולך וחוזר",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs --no-clear-screen",
     "build": "vuepress build docs",
-    "deploy": "yarn build && surge docs/.vuepress/dist teva-shalem.surge.sh"
+    "deploy": "yarn build && surge docs/.vuepress/dist books.teva-shalem.com"
   },
   "dependencies": {
     "v-tooltip": "^2.0.3",

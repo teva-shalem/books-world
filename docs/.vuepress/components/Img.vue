@@ -1,5 +1,5 @@
 <template>
-<img class="img" :src="$withBase('images/' + path)">
+<img class="img" :src="$withBase('/images/' + path)">
 </template>
 
 <script lang="ts">
