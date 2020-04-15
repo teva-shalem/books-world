@@ -5,18 +5,20 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev docs --no-clear-screen",
-    "build": "vuepress build docs",
-    "deploy": "yarn build && surge docs/.vuepress/dist books.teva-shalem.com"
+    "dev": "vuepress dev books --no-clear-screen",
+    "build": "vuepress build books",
+    "deploy": "yarn build && gh-pages -d dist"
   },
   "dependencies": {
     "v-tooltip": "^2.0.3",
-    "vuepress-theme-derech-hapeima": "file:docs/.vuepress/theme"
+    "vuepress-plugin-img-lazy": "^1.0.3",
+    "vuepress-theme-derech-hapeima": "file:books/.vuepress/theme"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.4.0",
     "@vuepress/plugin-google-analytics": "^1.4.0",
     "@vuepress/plugin-medium-zoom": "^1.4.0",
+    "gh-pages": "^2.2.0",
     "surge": "^0.21.3",
     "typescript": "^3.8.3",
     "vuepress": "^1.4.0",

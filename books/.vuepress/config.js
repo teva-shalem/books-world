@@ -1,11 +1,13 @@
 module.exports = {
   title: "טבע שלם",
   theme: "derech-hapeima",
+  dest: "./dist",
   evergreen: true,
   markdown: {
     extractHeaders: [ 'h1', 'h2', 'h3', 'h4' ]
   },
   plugins: [
+    'img-lazy',
     '@vuepress/back-to-top',
     'vuepress-plugin-smooth-scroll',
 
