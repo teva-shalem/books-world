@@ -1,15 +1,29 @@
 ---
 title: דרך הפעימה
 permalink: /derech-hapeima
+description: ספר זה הוא תמצית אחת, מתוך 'ספר החיים' אשר יצא במהדורה מוגבלת ב-2012. הספר מכיל כתבים שנכתבו בין השנים 2009-2004 , ביומנים אישיים, במקומות שונים בעולם ומהווים חלק מהיצירה הרב-תחומית - 'מעשה מרכבה', מאת המחבר
 ---
 
 <div style="text-align: center">
   <h1>דרך הפעימה</h1>
+  <h2>לימוד הנפש - ספר 1 מתוך 4</h2>
   <h2>חיים דרך טבע</h2>
   <h3>דוד ישראל כהן - יוצר ומורה פעימה</h3>
 </div>
 
-<Img :path="'cover.webp'" style="max-height: 90vh;margin: 0 auto;display: block;"></Img>
+<Img :path="'cover.jpg'" style="max-height: 90vh;margin: 0 auto;display: block;"></Img>
+
+<Quote>
+<p>'והרוח הייתה לאחד עם הטבע, וההכרה לאחד עם אלוהים'</p>
+</Quote>
+
+<Quote>
+<p>'את השקט לא ניתן לתאר במילים'</p>
+</Quote>
+
+<Quote>
+<p>'הדרך לא שייכת להולך בה'</p>
+</Quote>
 
 <TableOfContents :includeLevel="[1, 2, 3]" />
 
@@ -52,7 +66,7 @@ permalink: /derech-hapeima
 דוד ישראל כהן.
 תל אביב, ינואר 2018.
 
-<Img :path="'david-symbol.webp'"></Img>
+<Img :path="'david-symbol.jpg'"></Img>
 
 <aside><i>האיורים בספר מאת המחבר</i></aside>
 
@@ -114,7 +128,8 @@ permalink: /derech-hapeima
 של הדיפה,
 של טיפוס לפסגה.
 
-<Img :path="'merkavah-arrows.webp'"></Img>
+<Img :path="'merkavah-arrows.jpg'"></Img>
+<Img :path="'merkavah-body.jpg'"></Img>
 
 שחרור עולם במקום תפיסת עולם,
 והמקום בו שניהם אחד –
@@ -129,7 +144,7 @@ permalink: /derech-hapeima
 לכן הספר הזה מוקדש ליצירה הטובה מכולן – <Bigger>לחיים.
 באהבה.</Bigger>
 
-<Img :path="'kissing.webp'"></Img>
+<Img :path="'kissing.jpg'"></Img>
 
 ### על מילה וספר
 
@@ -198,7 +213,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'darwish.webp'"></Img>
+<Img :path="'darwish.jpg'"></Img>
 
 <Poem>
 
@@ -240,7 +255,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'movement.webp'"></Img>
+<Img :path="'movement.jpg'"></Img>
 
 <Poem>
 
@@ -433,7 +448,7 @@ permalink: /derech-hapeima
 <template #quoter>צ'נג מאן-צ'ינג</template>
 </Quote>
 
-<Img :path="'paradoxality.webp'"></Img>
+<Img :path="'paradoxality.jpg'"></Img>
 
 <Poem>
 
@@ -624,7 +639,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'drainage-divide.webp'"></Img>
+<Img :path="'drainage-divide.jpg'"></Img>
 
 <ChapterOpening>
 
@@ -639,7 +654,7 @@ permalink: /derech-hapeima
 
 ## 
 
-<Img :path="'mountain.webp'"></Img>
+<Img :path="'mountain.jpg'"></Img>
 
 <Quote>
 <p>'רעם חוזר ומופיע –
@@ -666,7 +681,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'classification.webp'"></Img>
+<Img :path="'classification.jpg'"></Img>
 
 <Poem>
 
@@ -700,7 +715,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'sanity.webp'"></Img>
+<Img :path="'sanity.jpg'"></Img>
 
 <Poem>
 
@@ -806,7 +821,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'forcefulness.webp'"></Img>
+<Img :path="'forcefulness.jpg'"></Img>
 
 <ChapterOpening>
 
@@ -943,7 +958,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'west.webp'"></Img>
+<Img :path="'west.jpg'"></Img>
 
 <Poem>
 
@@ -1071,7 +1086,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'disentanglement.webp'"></Img>
+<Img :path="'disentanglement.jpg'"></Img>
 
 ## זוויות
 
@@ -1160,7 +1175,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'caressing.webp'"></Img>
+<Img :path="'caressing.jpg'"></Img>
 
 <Poem>
 
@@ -1192,7 +1207,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'filipe.webp'"></Img>
+<Img :path="'filipe.jpg'"></Img>
 
 ## נווה מדבר
 
@@ -1294,7 +1309,7 @@ permalink: /derech-hapeima
 
 </Poem>
 
-<Img :path="'nostalgia.webp'"></Img>
+<Img :path="'nostalgia.jpg'"></Img>
 
 <ChapterOpening>
 
@@ -1456,7 +1471,7 @@ permalink: /derech-hapeima
 
 ### מיפוי מרכבה אישי, מטאפיזיקה
 
-<Img :path="'personal-merkavah.webp'"></Img>
+<Img :path="'merkavah-personal.jpg'"></Img>
 
 <Poem>
 
@@ -1674,7 +1689,7 @@ permalink: /derech-hapeima
 
 <p></p>
 
-<Img :path="'david.webp'"></Img>
+<Img :path="'david.jpg'"></Img>
 
 ### פעימה
 
@@ -1687,7 +1702,7 @@ permalink: /derech-hapeima
 שירת בצבא כמפקד ספינה. לאחר מכן יצא למסע תודעתי וגיאוגרפי נטול גבולות,
 תוך בנייה בלתי פוסקת של היצירה – <Strong>'מעשה מרכבה'</Strong>, העוסקת בהיבנות האדם
 והטבע לכדי מכלול שלם. לדוד ארבעה ספרים: דרך הפעימה, לוחות הבריאה, ספר החיים וטבע שלם. הם ראו אור במהדורות מוגבלות ועתה עולים לאתר ייעודי ברשת הנקרא ״טבע שלם״ שיהיה פתוח ונגיש לקהל הרחב.
-דוד מתמודד עם סכיזופרניה ופוסט-טראומה משנת 2002. מפתח דרך הפעימה לריפוי והתפחות נפש האדם.
+דוד מתמודד עם סכיזופרניה ופוסט-טראומה משנת 2002. מפתח דרך הפעימה לריפוי והתפתחות נפש האדם.
 
 כיום, מתמקד באומנות והדרכה
 על פי עקרונות ה'<Strong>פעימה</Strong>', המובאים לציבור

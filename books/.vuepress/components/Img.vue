@@ -1,16 +1,17 @@
 <template>
-<img class="img" :src="$withBase('/images/' + path)">
+<img class="img" :src="path ? $withBase('/images/' + path) : url ? url : ''">
 </template>
 
 <script lang="ts">
 export default {
   props: {
-    path: {type: String, required: true}
+    path: {type: String},
+    url: {type: String},
   },
 }
 </script>
 
 <style lang="stylus">
-img 
+img
   max-width 100%
 </style>
