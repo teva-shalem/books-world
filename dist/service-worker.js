@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "43ffdd2da59bfba475204442ea51e195"
+    "revision": "9d29fe41447c783a97fc61658259ae69"
   },
   {
     "url": "assets/css/0.styles.bab33f1c.css",
@@ -46,8 +46,8 @@ self.__precacheManifest = [
     "revision": "442717680fc0a57a5edbfe95cc1060f6"
   },
   {
-    "url": "assets/js/13.ce6bc503.js",
-    "revision": "44f0e31e12dc077f27eb702dc19d1841"
+    "url": "assets/js/13.cf192c82.js",
+    "revision": "57c56f3a53834f0e2e01e35522cf29b1"
   },
   {
     "url": "assets/js/14.221ddeaa.js",
@@ -62,16 +62,16 @@ self.__precacheManifest = [
     "revision": "2c0bac17532f914e391132e4804ab158"
   },
   {
-    "url": "assets/js/17.c05ee6ef.js",
-    "revision": "6682fc0586d1ceda09983a6c99710b64"
+    "url": "assets/js/17.41cb30b4.js",
+    "revision": "8aad2fe17ad7346158b4c6e56b0defae"
   },
   {
-    "url": "assets/js/18.83e58c45.js",
-    "revision": "3a5945e13ca3fe13a56be112e5c988a6"
+    "url": "assets/js/18.adc0eb27.js",
+    "revision": "9662764556f2b34ecd06cef232799f4e"
   },
   {
-    "url": "assets/js/19.bf9b58b4.js",
-    "revision": "4182e9081f5dfc9afa25abff2b1962f9"
+    "url": "assets/js/19.12f6dc84.js",
+    "revision": "378935bc867759fa6b09cee130cf18a4"
   },
   {
     "url": "assets/js/2.5a6264fb.js",
@@ -114,12 +114,12 @@ self.__precacheManifest = [
     "revision": "373f4d557acd494cfa99759d10bc9a4c"
   },
   {
-    "url": "assets/js/app.25d5115b.js",
-    "revision": "ca1ce1fb935df778f1d86d49ee84a78f"
+    "url": "assets/js/app.d6e228a4.js",
+    "revision": "e917d08c9268db526aa49bc5113e60b1"
   },
   {
     "url": "derech-hapeima/index.html",
-    "revision": "7235816fc155fd53e69716104705595c"
+    "revision": "610fa5c10325c9a8b4337594000c4006"
   },
   {
     "url": "images/axis-z.jpg",
@@ -315,15 +315,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0b22e775f04c1d8d2f6e03b20e731e26"
+    "revision": "aad4b7fff6959b8f088a5ad2e696c7bb"
   },
   {
     "url": "mishvaot-hapeima/index.html",
-    "revision": "e8366cd5f2089c4daa586ea10d353fbf"
+    "revision": "886e78b24c705ca09188226bf303d95b"
   },
   {
     "url": "sefer-yetzira/index.html",
-    "revision": "a5485b3c8250abfc2391f91a072954ad"
+    "revision": "e85011034f6feecde2e5304fc82b5e99"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
