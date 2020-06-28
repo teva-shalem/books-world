@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e08aa1618e4b3bb58652aae3b563e66d"
+    "revision": "aa6b742721ab7dad2865dbafa54b320a"
   },
   {
     "url": "assets/css/0.styles.34008f46.css",
@@ -50,8 +50,8 @@ self.__precacheManifest = [
     "revision": "bfe6b1ae269e892bba19190992a13de3"
   },
   {
-    "url": "assets/js/14.80497135.js",
-    "revision": "954b6d167d28e219dd7b97d50aa286b7"
+    "url": "assets/js/14.62d332b6.js",
+    "revision": "eacd772f905d65d245fa91e6b320eeeb"
   },
   {
     "url": "assets/js/15.d1649f4b.js",
@@ -66,8 +66,8 @@ self.__precacheManifest = [
     "revision": "4c6da4597f2d3acdcb68009a89cd5271"
   },
   {
-    "url": "assets/js/18.dd526253.js",
-    "revision": "0130c842a6283a6dfbb351b08d1150b1"
+    "url": "assets/js/18.076e4fb7.js",
+    "revision": "d8f462daeb9ca0480f894df777926af6"
   },
   {
     "url": "assets/js/19.f99eb53c.js",
@@ -78,8 +78,8 @@ self.__precacheManifest = [
     "revision": "8df195974df7ff06230831b4e6f7326d"
   },
   {
-    "url": "assets/js/20.d30cb8fc.js",
-    "revision": "4cf339103ae9511b315b7b7a8f6b3fee"
+    "url": "assets/js/20.97402a72.js",
+    "revision": "a9801a9151482162a0cce1956f4491cd"
   },
   {
     "url": "assets/js/21.e8a64f7f.js",
@@ -122,12 +122,12 @@ self.__precacheManifest = [
     "revision": "739e453fb15b7b48ebdb47163dac380f"
   },
   {
-    "url": "assets/js/app.16b925ea.js",
-    "revision": "5d93727ec3cd53c47feda1844713cd4d"
+    "url": "assets/js/app.d97d79d2.js",
+    "revision": "f4a7872bc181b6c8ea4819625e0ee228"
   },
   {
     "url": "derech-hapeima/index.html",
-    "revision": "57058724b48203477e088c99b2d4e678"
+    "revision": "b2b59ef8538f1e72097917dda5e13079"
   },
   {
     "url": "images/axis-z.jpg",
@@ -327,19 +327,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "bee886e5c6c170fbed3ccca800c8f5c5"
+    "revision": "b847167f1f52ec745b41dfd08c3243b1"
   },
   {
     "url": "mishvaot-hapeima/index.html",
-    "revision": "f5efdbd583eaf727f132ee71acbe7063"
+    "revision": "440a17b19138aee8899ff15b11a82f99"
   },
   {
     "url": "rosetta-stone/index.html",
-    "revision": "ecd09cf218eb3d9ceb1e6350ea84109e"
+    "revision": "4af193a8a0ddd7beb8e571d6dcb02a89"
   },
   {
     "url": "sefer-yetzira/index.html",
-    "revision": "613864a5e7152dc3384c811b933e739a"
+    "revision": "a1dde53bb01ada76cf7bd850b4b0ec6b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
