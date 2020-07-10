@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f7ec3d1c1e250af2ed13c9d50f91a7c4"
+    "revision": "9103857c3821cad55100a984e0bdb1bc"
   },
   {
-    "url": "assets/css/0.styles.943f697c.css",
-    "revision": "767d2e9d6141c4890b5307f4cebf0350"
+    "url": "assets/css/0.styles.eea24446.css",
+    "revision": "0bf93e2085c7134934466be11a5efa88"
   },
   {
     "url": "assets/fonts/KaTeX_AMS-Regular.7f06b4e3.woff",
@@ -238,20 +238,20 @@ self.__precacheManifest = [
     "revision": "6cc31ea5c223c88705a13727a71417fa"
   },
   {
-    "url": "assets/js/10.8a3d9daa.js",
-    "revision": "881064aaeed72d3cc4d6e34131722d29"
+    "url": "assets/js/10.6b2090d6.js",
+    "revision": "7980c14de4d571d22c35090315ef4018"
   },
   {
-    "url": "assets/js/11.645a5b74.js",
-    "revision": "38286bfc19d2715286eeaa741f8a641f"
+    "url": "assets/js/11.27b6719a.js",
+    "revision": "a583130d01587c52b226920a31b82a5b"
   },
   {
-    "url": "assets/js/12.c35fb85c.js",
-    "revision": "19dfa2668865fbf3291011893df46631"
+    "url": "assets/js/12.c0eeed40.js",
+    "revision": "2e231d8defb1c092f8d796fb08b2c76e"
   },
   {
-    "url": "assets/js/13.84686fcc.js",
-    "revision": "e277065a36e7bcf536462d434d1d2f1a"
+    "url": "assets/js/13.d08950e4.js",
+    "revision": "9d9e6345a66c0d9a3ffd5cef661af7ce"
   },
   {
     "url": "assets/js/14.1d6ecb37.js",
@@ -266,20 +266,20 @@ self.__precacheManifest = [
     "revision": "b60be996713c0b89bb4feb1beb8cbef6"
   },
   {
-    "url": "assets/js/17.22f8d2e6.js",
-    "revision": "9cbc9ae8bd5555d6f218ccaa1fb59f63"
+    "url": "assets/js/17.844e8393.js",
+    "revision": "ce2d55c3926a4f4ffae7efeff55974ea"
   },
   {
-    "url": "assets/js/18.c607b22a.js",
-    "revision": "5354834fae5a86e60544391862ad5a9a"
+    "url": "assets/js/18.6a07cfbe.js",
+    "revision": "a9df60c2a24bfc98f456559a3082cc32"
   },
   {
-    "url": "assets/js/19.dba7f873.js",
-    "revision": "7d80ec34acbe0d07db6072023c17bb3f"
+    "url": "assets/js/19.273aba3c.js",
+    "revision": "b8d9434e9881f780f36c09e74277fae1"
   },
   {
-    "url": "assets/js/2.1158b938.js",
-    "revision": "efd04300b1b911a17dc7334c700d6098"
+    "url": "assets/js/2.ae09ae4e.js",
+    "revision": "35a3682ec5f4b7b23ebaff46b6e945be"
   },
   {
     "url": "assets/js/20.a59d8923.js",
@@ -290,28 +290,32 @@ self.__precacheManifest = [
     "revision": "9721533ee61a20a0122bbae45c7347e8"
   },
   {
-    "url": "assets/js/22.e63844f6.js",
-    "revision": "bd692614b7e66a9e61368c72ad656f01"
+    "url": "assets/js/22.48aeb88f.js",
+    "revision": "8894e56cbeb914fde3799dd7a458d6c7"
   },
   {
     "url": "assets/js/23.c443191b.js",
     "revision": "71a35c9fdba429ad901428f530a55d33"
   },
   {
-    "url": "assets/js/24.8650fdd2.js",
-    "revision": "4a226941c8f365538dd20baa3d467c7d"
+    "url": "assets/js/24.1718bf85.js",
+    "revision": "36376962c3a67d0f83feedf8902fc5e5"
   },
   {
-    "url": "assets/js/25.0486dd0f.js",
-    "revision": "17c5d98e50ceaddf8f5678a1ef7addf7"
+    "url": "assets/js/25.b3c8b79e.js",
+    "revision": "534b14732c179636013544eb862bb3cb"
   },
   {
-    "url": "assets/js/26.a9d83fee.js",
-    "revision": "b94f70ce233c10430b6796bc579c4035"
+    "url": "assets/js/26.8fb51238.js",
+    "revision": "02a11ef734b64f1aa27c29b65f5d5938"
   },
   {
-    "url": "assets/js/27.8254726e.js",
-    "revision": "3c2c3c96babfe211806a61b13428951c"
+    "url": "assets/js/27.b34415b3.js",
+    "revision": "cb4aa89d19cec35af735461baaa25fb1"
+  },
+  {
+    "url": "assets/js/28.33607bfd.js",
+    "revision": "717525216b700efeef1661b31badb180"
   },
   {
     "url": "assets/js/3.5f2a5081.js",
@@ -334,20 +338,20 @@ self.__precacheManifest = [
     "revision": "83ae8b479e070db5964bc338c035d9ef"
   },
   {
-    "url": "assets/js/8.aedabcfe.js",
-    "revision": "55e2e569148fb6c3bb1d4af1e05be3b1"
+    "url": "assets/js/8.f08487f5.js",
+    "revision": "3bed3131b40e65f61d22c021bfcda5bc"
   },
   {
-    "url": "assets/js/9.9377f5d8.js",
-    "revision": "428d5f2ee4985ec264b7599d82f5c45c"
+    "url": "assets/js/9.e5e089ca.js",
+    "revision": "a35651f20e7c1336442df8806d10a3d5"
   },
   {
-    "url": "assets/js/app.70550457.js",
-    "revision": "636b90a73c1ab62e421ef7ac427a2540"
+    "url": "assets/js/app.dd3b417c.js",
+    "revision": "95d2e292be93f4556294fb8b0cad8ade"
   },
   {
     "url": "derech-hapeima/index.html",
-    "revision": "0d3c3228f2839307b617b7c285de9a2b"
+    "revision": "29ab822c077a29288417037effc106c0"
   },
   {
     "url": "images/axis-z.jpg",
@@ -368,6 +372,10 @@ self.__precacheManifest = [
   {
     "url": "images/constant-n.jpg",
     "revision": "e05525552d556cf974cb905fc2fd35b0"
+  },
+  {
+    "url": "images/cosmology-model.jpg",
+    "revision": "bb150b87ce1387081da24de9ba4be573"
   },
   {
     "url": "images/cover.jpg",
@@ -416,6 +424,10 @@ self.__precacheManifest = [
   {
     "url": "images/equation-soul.jpg",
     "revision": "1bc0db0f2097f786048807cdce1f4b06"
+  },
+  {
+    "url": "images/equation-terra-dynamics.jpg",
+    "revision": "3cb5d29bb0d5418144b97cd5eda77912"
   },
   {
     "url": "images/equation-two.jpg",
@@ -476,6 +488,10 @@ self.__precacheManifest = [
   {
     "url": "images/kissing.jpg",
     "revision": "9bd8030c6c78c6a292a9f73c1e561610"
+  },
+  {
+    "url": "images/layered-model.jpg",
+    "revision": "594d5c02f8708489ba7d814715a83102"
   },
   {
     "url": "images/legend-composition.jpg",
@@ -650,6 +666,10 @@ self.__precacheManifest = [
     "revision": "fa8f3a9f0a5a378edc93c1045b61816e"
   },
   {
+    "url": "images/osi-model.svg",
+    "revision": "02e9fbf43294065e23c0bd8a2686f79c"
+  },
+  {
     "url": "images/paradoxality.jpg",
     "revision": "3173060aee833c95a9cc11d7d0800883"
   },
@@ -679,19 +699,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c643dbc66692ba56e3a03eb9e67492a8"
+    "revision": "53daab20e879f2c3b66656bf729f7bfc"
   },
   {
     "url": "mishvaot-hapeima/index.html",
-    "revision": "6fb8c3df10bb3044792e28bb1563f7e8"
+    "revision": "a033b639103f7fdbc9b76de246539f62"
   },
   {
     "url": "rosetta-stone/index.html",
-    "revision": "875d01b5ab25dc52e77a47c5b3a53dd5"
+    "revision": "1d4bc4e56d7808bd1e8b730fe83eaf04"
   },
   {
     "url": "sefer-yetzira/index.html",
-    "revision": "1df140e8ad5636ef0de3d7d975703096"
+    "revision": "3f416a576a37a2f2127263a98c170bfa"
+  },
+  {
+    "url": "slideshow/index.html",
+    "revision": "a21b409fe790a621ebee0a72d22db02c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
