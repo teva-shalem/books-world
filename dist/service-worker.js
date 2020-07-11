@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "6d5ace563edf647651644ec549a6b5f6"
+    "revision": "b4330e453cdd0d9b0ebe7181cb6e665e"
   },
   {
     "url": "assets/css/0.styles.eea24446.css",
@@ -266,12 +266,12 @@ self.__precacheManifest = [
     "revision": "b60be996713c0b89bb4feb1beb8cbef6"
   },
   {
-    "url": "assets/js/17.844e8393.js",
-    "revision": "ce2d55c3926a4f4ffae7efeff55974ea"
+    "url": "assets/js/17.d1dd87cc.js",
+    "revision": "f06fd9ab9113deaccf965f7e0a16e186"
   },
   {
-    "url": "assets/js/18.6a07cfbe.js",
-    "revision": "a9df60c2a24bfc98f456559a3082cc32"
+    "url": "assets/js/18.52b81c93.js",
+    "revision": "1f9388703dc4d42129d0c026222e613a"
   },
   {
     "url": "assets/js/19.273aba3c.js",
@@ -290,24 +290,24 @@ self.__precacheManifest = [
     "revision": "9721533ee61a20a0122bbae45c7347e8"
   },
   {
-    "url": "assets/js/22.6639817a.js",
-    "revision": "e665fc1b5c3aac31e6a0ce84240bf7db"
+    "url": "assets/js/22.bed0268b.js",
+    "revision": "3285adbe38beed0602535d3f9477cb5f"
   },
   {
-    "url": "assets/js/23.024ede27.js",
-    "revision": "e468a6a2f365a7232de0a8ba0992b8d6"
+    "url": "assets/js/23.f72afcf2.js",
+    "revision": "2633cc8dd967130307893e786609b317"
   },
   {
-    "url": "assets/js/24.ffb28b74.js",
-    "revision": "06e5fff47505d92c9138dc4cc63261c6"
+    "url": "assets/js/24.fcc2d6f3.js",
+    "revision": "1ed6c94732b300874d4bcb420ec019a3"
   },
   {
-    "url": "assets/js/25.0486dd0f.js",
-    "revision": "17c5d98e50ceaddf8f5678a1ef7addf7"
+    "url": "assets/js/25.c2120f80.js",
+    "revision": "484c552633f0c1d4c7516fc0e47f5ff5"
   },
   {
-    "url": "assets/js/26.478ff19e.js",
-    "revision": "bcb8b09785b5b6c4fdf7e7020e722741"
+    "url": "assets/js/26.bfe21e7e.js",
+    "revision": "6365cd8bb2fbdae9b1bc410382a150a4"
   },
   {
     "url": "assets/js/27.b34415b3.js",
@@ -346,12 +346,12 @@ self.__precacheManifest = [
     "revision": "a35651f20e7c1336442df8806d10a3d5"
   },
   {
-    "url": "assets/js/app.0e9f617f.js",
-    "revision": "fa57b92f2e83e3bb8276f19365d6cc01"
+    "url": "assets/js/app.0d78ff5b.js",
+    "revision": "33fb590c4330068eef83c37bcff16670"
   },
   {
     "url": "derech-hapeima/index.html",
-    "revision": "68b2882577794dcd2965888472366461"
+    "revision": "fa6db9277669dc7483bb6b3e2f3642ca"
   },
   {
     "url": "images/axis-z.jpg",
@@ -375,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "images/cosmology-model.jpg",
-    "revision": "bb150b87ce1387081da24de9ba4be573"
+    "revision": "a8747aafef0d86182ff38e1beca4efdf"
   },
   {
     "url": "images/cover.jpg",
@@ -699,23 +699,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0a1e3775e9d66cd1a552dddf6bbd9250"
+    "revision": "da0274f2212ad58921bc18c98b059aaf"
   },
   {
     "url": "mishvaot-hapeima/index.html",
-    "revision": "dd73201fea820d218a1c444fb2054c9f"
+    "revision": "877cace5749794413b5526ac18dc7dc0"
   },
   {
     "url": "rosetta-stone/index.html",
-    "revision": "927f19d41e80085098fe400954c0e78e"
+    "revision": "5bcc20b8a97a8d29ec960044b724feb7"
   },
   {
     "url": "sefer-yetzira/index.html",
-    "revision": "288aab94c72ed4c288a198faa8f9fb42"
+    "revision": "74e935a67500f29aed1c3285d9034b7e"
   },
   {
     "url": "slideshow/index.html",
-    "revision": "c98ee6195b5ee88eae5bef29347fe9eb"
+    "revision": "354d68dd49527bdb26d466f751029132"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
