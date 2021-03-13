@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "042822228390118c9ac901ff98b9c195"
+    "revision": "78c450a1dbab1d2f018737bdf3e3cd23"
   },
   {
-    "url": "assets/css/0.styles.f05f950f.css",
-    "revision": "452a5da1d75627338daf3b24bad4f466"
+    "url": "assets/css/0.styles.72fd8380.css",
+    "revision": "571503323372dc99c32432f3ebc44e98"
   },
   {
     "url": "assets/fonts/KaTeX_AMS-Regular.7f06b4e3.woff",
@@ -246,12 +246,12 @@ self.__precacheManifest = [
     "revision": "d1a95297dc7fe372bb1a286d856ecbec"
   },
   {
-    "url": "assets/js/12.8f7b3eb2.js",
-    "revision": "b20f0f40393b04ae1e8087b88d68fa96"
+    "url": "assets/js/12.230542f1.js",
+    "revision": "0064823faef86c95ff1cbf0fa081a1b9"
   },
   {
-    "url": "assets/js/13.c55c0371.js",
-    "revision": "86ede234f50aaae1574cc651c05ac6d8"
+    "url": "assets/js/13.800aeca5.js",
+    "revision": "f823ce2cc58de34a30351c419ec2b7ed"
   },
   {
     "url": "assets/js/14.85974e34.js",
@@ -262,12 +262,12 @@ self.__precacheManifest = [
     "revision": "b43cf74ad53ceba7241abd8cf8955830"
   },
   {
-    "url": "assets/js/16.6ce0684c.js",
-    "revision": "b5d87dfaacb1a7362e6a44ae8324fcab"
+    "url": "assets/js/16.fac17647.js",
+    "revision": "4734a2b28c25de11d2aaec49d28bd891"
   },
   {
-    "url": "assets/js/17.6b0d7542.js",
-    "revision": "fd1c8afbfc0be6cad3322f8496d66a31"
+    "url": "assets/js/17.d158bb84.js",
+    "revision": "7702030a0998bbf5a9c9e1de941549e6"
   },
   {
     "url": "assets/js/18.2fe0081d.js",
@@ -282,12 +282,12 @@ self.__precacheManifest = [
     "revision": "b2044b304743721c4e4bf62632feaa11"
   },
   {
-    "url": "assets/js/20.886bba75.js",
-    "revision": "c25b8a2c2e1db251dc1b152aa7f5cc9b"
+    "url": "assets/js/20.632c08c4.js",
+    "revision": "2994d627a894349c7ac3ec5499ab15a7"
   },
   {
-    "url": "assets/js/21.a1073c3f.js",
-    "revision": "c4cb8e155da83ed587fe077a25ab056e"
+    "url": "assets/js/21.03a4e4ed.js",
+    "revision": "dd0eb7e2b42f3cc531d650447d1a1952"
   },
   {
     "url": "assets/js/22.7e05989d.js",
@@ -306,32 +306,32 @@ self.__precacheManifest = [
     "revision": "c4e69d0708815fd3f0d5e4397b5dad4e"
   },
   {
-    "url": "assets/js/26.692a4028.js",
-    "revision": "c5d64ada2e327c277f80c087769d49be"
+    "url": "assets/js/26.5a7ff932.js",
+    "revision": "32e5e23bc61f6222cce710e8cd5fa242"
   },
   {
-    "url": "assets/js/27.2bd15150.js",
-    "revision": "d322fe2c126c950d2d48a77c052ffb27"
+    "url": "assets/js/27.f14a24f2.js",
+    "revision": "b4e227079ce2dc424fbaa48416e5cc20"
   },
   {
-    "url": "assets/js/28.91230f32.js",
-    "revision": "3591b6e03749dce023bd3e61de4e5e6f"
+    "url": "assets/js/28.43f0454d.js",
+    "revision": "f6525f5e6fdb1c02bc9ba1c8d3dd1388"
   },
   {
-    "url": "assets/js/29.c5f6a675.js",
-    "revision": "993426b49a4724ce90a816d8ea3a3d79"
+    "url": "assets/js/29.54749c74.js",
+    "revision": "3be198433476412ad547221c3c7ab184"
   },
   {
     "url": "assets/js/3.03f55e2b.js",
     "revision": "e688c2b8977a0d19ca20f1e0b8093b42"
   },
   {
-    "url": "assets/js/30.99caa6e0.js",
-    "revision": "1784c4829cb38342f0a346cac1de8d5b"
+    "url": "assets/js/30.bdd39f39.js",
+    "revision": "3b041df37459483d82fb655f22b743bb"
   },
   {
-    "url": "assets/js/31.5e2ec141.js",
-    "revision": "3d1232f601e87ee27a36d8fa1624397b"
+    "url": "assets/js/31.aa42040c.js",
+    "revision": "50507724bf3802f8752076e01a6a9d17"
   },
   {
     "url": "assets/js/32.acdc787e.js",
@@ -350,12 +350,12 @@ self.__precacheManifest = [
     "revision": "cc002f785b587d8bdbafa7efe1488a17"
   },
   {
-    "url": "assets/js/6.330a3dc9.js",
-    "revision": "2f1f793d3392662a405f4adc67b3d761"
+    "url": "assets/js/6.9fb3bf8c.js",
+    "revision": "79b20d1f28cb03273825f7b4c4ec0202"
   },
   {
-    "url": "assets/js/7.7e9e7d55.js",
-    "revision": "bdea1a3ca7ffd82f82f55865c02ebd5a"
+    "url": "assets/js/7.081f6d62.js",
+    "revision": "acec76c18241c1d85586fbc95b1f7830"
   },
   {
     "url": "assets/js/8.a5b0fd60.js",
@@ -366,16 +366,16 @@ self.__precacheManifest = [
     "revision": "4b53f77a7c8db964c148f847b4bf28cd"
   },
   {
-    "url": "assets/js/app.f17bbfa9.js",
-    "revision": "7e4bedff63172a7b84ddb11e933625ac"
+    "url": "assets/js/app.6fae046d.js",
+    "revision": "175fe9d9f088385570923918d5e1ee23"
   },
   {
     "url": "composition-book/index.html",
-    "revision": "b41f5272e6b2c3ea71cf75ea9ee721fb"
+    "revision": "2bcf8cbe3203ba5ff1ab416f2c9801b9"
   },
   {
     "url": "derech-hapeima/index.html",
-    "revision": "81448453606ff11b95408b8c8a71722d"
+    "revision": "64898fcd6b7408e472de518aa377157e"
   },
   {
     "url": "images/applicative-philosophy.jpg",
@@ -782,6 +782,10 @@ self.__precacheManifest = [
     "revision": "a6edcd2d6294fc2454d11cb3e8005629"
   },
   {
+    "url": "images/turnover.jpg",
+    "revision": "b2dd4215f7a2ae6a2dbf702e1cf67275"
+  },
+  {
     "url": "images/variable-m.jpg",
     "revision": "74b03d0c8ea4e6de0c2418bcfe8d0343"
   },
@@ -791,27 +795,27 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8b1f477fbaacf36a4bbfc679a52f3ff7"
+    "revision": "447c254067d124b2ea589f72f0a67e5f"
   },
   {
     "url": "mishvaot-hapeima/index.html",
-    "revision": "2e348ab0314bc769fc13fe6bf245c4d1"
+    "revision": "c818aecb2a1a4d0cf304d22ebc5910de"
   },
   {
     "url": "rosetta-stone/index.html",
-    "revision": "6643e9656668b76b21bdea8d5b47fd9e"
+    "revision": "5ebdb363631acd6f879afdc7580af69b"
   },
   {
     "url": "sefer-yetzira/index.html",
-    "revision": "d77c4b23967cda6d4080b994b097a072"
+    "revision": "b9370828e9940f5c9b58b4d3c65b23cb"
   },
   {
     "url": "sipur-hayahhid/index.html",
-    "revision": "61ae7b0bb6d775af08392fdcbbe03da0"
+    "revision": "0d61191555b005d1d03f03727f5f65fa"
   },
   {
     "url": "slideshow/index.html",
-    "revision": "7b22bb72b5088e124ab6f321f2ec0d0b"
+    "revision": "e4b53b61b473344e74ae3e68948d81cf"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
