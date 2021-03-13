@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e203ea09e8c5056186ba43ce9bf5e6c0"
+    "revision": "042822228390118c9ac901ff98b9c195"
   },
   {
-    "url": "assets/css/0.styles.416dee1a.css",
-    "revision": "2d00366bedeca4f7301a2d82cd03c0d5"
+    "url": "assets/css/0.styles.f05f950f.css",
+    "revision": "452a5da1d75627338daf3b24bad4f466"
   },
   {
     "url": "assets/fonts/KaTeX_AMS-Regular.7f06b4e3.woff",
@@ -238,32 +238,32 @@ self.__precacheManifest = [
     "revision": "6cc31ea5c223c88705a13727a71417fa"
   },
   {
-    "url": "assets/js/10.aa7e0ee1.js",
-    "revision": "6d33aef5e1999aaed9c10b768237c701"
+    "url": "assets/js/10.2cc2669b.js",
+    "revision": "fff4b429cf1f2ca0a0c629f3bf848307"
   },
   {
-    "url": "assets/js/11.13382685.js",
-    "revision": "45ba8294625273f6f6763839613366d6"
+    "url": "assets/js/11.029c4fa9.js",
+    "revision": "d1a95297dc7fe372bb1a286d856ecbec"
   },
   {
-    "url": "assets/js/12.86a62f9c.js",
-    "revision": "aa76a9693ef3b92f8b6d7e0c7e156eca"
+    "url": "assets/js/12.8f7b3eb2.js",
+    "revision": "b20f0f40393b04ae1e8087b88d68fa96"
   },
   {
-    "url": "assets/js/13.8c5cd0c8.js",
-    "revision": "95e9546620dd3089742e2293b9d1b4f6"
+    "url": "assets/js/13.c55c0371.js",
+    "revision": "86ede234f50aaae1574cc651c05ac6d8"
   },
   {
-    "url": "assets/js/14.148fb391.js",
-    "revision": "b72ffdf60b5759dd3a8a71ba53b8b58e"
+    "url": "assets/js/14.85974e34.js",
+    "revision": "628f6a94d0057d02f5cd97989c9d4c06"
   },
   {
-    "url": "assets/js/15.943af295.js",
-    "revision": "9ca916f9664b5c0e999dd28735fdaae2"
+    "url": "assets/js/15.36c99ccc.js",
+    "revision": "b43cf74ad53ceba7241abd8cf8955830"
   },
   {
-    "url": "assets/js/16.1fece50f.js",
-    "revision": "b58c6d789dfe4bb2b0592b688a95746c"
+    "url": "assets/js/16.6ce0684c.js",
+    "revision": "b5d87dfaacb1a7362e6a44ae8324fcab"
   },
   {
     "url": "assets/js/17.6b0d7542.js",
@@ -282,16 +282,16 @@ self.__precacheManifest = [
     "revision": "b2044b304743721c4e4bf62632feaa11"
   },
   {
-    "url": "assets/js/20.9f02099e.js",
-    "revision": "47a2ac4bcb0487a61de645ec3a9aa7b4"
+    "url": "assets/js/20.886bba75.js",
+    "revision": "c25b8a2c2e1db251dc1b152aa7f5cc9b"
   },
   {
-    "url": "assets/js/21.4eda6bb7.js",
-    "revision": "9d8fcb196767a85572e3b94838d5dbb2"
+    "url": "assets/js/21.a1073c3f.js",
+    "revision": "c4cb8e155da83ed587fe077a25ab056e"
   },
   {
-    "url": "assets/js/22.b2b268f6.js",
-    "revision": "c59769aebbfc80dd01ac128c38a68a5b"
+    "url": "assets/js/22.7e05989d.js",
+    "revision": "d48ebbc18d7f5ea96fcdd7ca05f2c0f6"
   },
   {
     "url": "assets/js/23.266f30c4.js",
@@ -306,40 +306,44 @@ self.__precacheManifest = [
     "revision": "c4e69d0708815fd3f0d5e4397b5dad4e"
   },
   {
-    "url": "assets/js/26.5024130d.js",
-    "revision": "fe9c53397980dd2ac33df6426a12dcca"
+    "url": "assets/js/26.692a4028.js",
+    "revision": "c5d64ada2e327c277f80c087769d49be"
   },
   {
-    "url": "assets/js/27.23b1de2f.js",
-    "revision": "42be9dfee86148866f27f64fb06c7b6f"
+    "url": "assets/js/27.2bd15150.js",
+    "revision": "d322fe2c126c950d2d48a77c052ffb27"
   },
   {
-    "url": "assets/js/28.8a5eae73.js",
-    "revision": "481455a9e34cbb70d2679456dc57716e"
+    "url": "assets/js/28.91230f32.js",
+    "revision": "3591b6e03749dce023bd3e61de4e5e6f"
   },
   {
-    "url": "assets/js/29.0e3d7459.js",
-    "revision": "5465a06f91a28ad7a485d048679c507a"
+    "url": "assets/js/29.c5f6a675.js",
+    "revision": "993426b49a4724ce90a816d8ea3a3d79"
   },
   {
     "url": "assets/js/3.03f55e2b.js",
     "revision": "e688c2b8977a0d19ca20f1e0b8093b42"
   },
   {
-    "url": "assets/js/30.17d7684d.js",
-    "revision": "2ea37beaa4403710cdec4dbceceb0c4e"
+    "url": "assets/js/30.99caa6e0.js",
+    "revision": "1784c4829cb38342f0a346cac1de8d5b"
   },
   {
-    "url": "assets/js/31.57d95827.js",
-    "revision": "079d80e57986147d499c2cd604d1861a"
+    "url": "assets/js/31.5e2ec141.js",
+    "revision": "3d1232f601e87ee27a36d8fa1624397b"
   },
   {
-    "url": "assets/js/32.06ef70b7.js",
-    "revision": "bfff8a427e2d8484ba343c42fcd4a4b9"
+    "url": "assets/js/32.acdc787e.js",
+    "revision": "75d9af67fe1ca87c3626122e73769b58"
   },
   {
-    "url": "assets/js/4.89415e44.js",
-    "revision": "493b93e70dff0d0c93b79d2ee26db655"
+    "url": "assets/js/33.93a298d0.js",
+    "revision": "0f6c2ff313cefd9591a2285296d69edf"
+  },
+  {
+    "url": "assets/js/4.50d47391.js",
+    "revision": "5faa6552c532dd2aa516996f0b7dba2c"
   },
   {
     "url": "assets/js/5.8a4f9095.js",
@@ -362,16 +366,20 @@ self.__precacheManifest = [
     "revision": "4b53f77a7c8db964c148f847b4bf28cd"
   },
   {
-    "url": "assets/js/app.84d1aaee.js",
-    "revision": "2234c2f0b8c61582531e4a2016295caf"
+    "url": "assets/js/app.f17bbfa9.js",
+    "revision": "7e4bedff63172a7b84ddb11e933625ac"
   },
   {
     "url": "composition-book/index.html",
-    "revision": "cf0d48e0213d81cad9765e5f2ceab587"
+    "revision": "b41f5272e6b2c3ea71cf75ea9ee721fb"
   },
   {
     "url": "derech-hapeima/index.html",
-    "revision": "42257fcc27a2015226b08f823296b031"
+    "revision": "81448453606ff11b95408b8c8a71722d"
+  },
+  {
+    "url": "images/applicative-philosophy.jpg",
+    "revision": "2db7904fb9f15f1a5645f06fada638c5"
   },
   {
     "url": "images/axis-z.jpg",
@@ -398,8 +406,16 @@ self.__precacheManifest = [
     "revision": "a8747aafef0d86182ff38e1beca4efdf"
   },
   {
-    "url": "images/cover.jpg",
+    "url": "images/cover-derech-hapeima.jpg",
     "revision": "dd6abdc164369c0546079dbaa1178653"
+  },
+  {
+    "url": "images/cover-sipur-hayahhid.jpg",
+    "revision": "40107ac0add9b298299d6074c0a09728"
+  },
+  {
+    "url": "images/cycle-mentoring.jpg",
+    "revision": "e8fdc072ed994e8f855901bdb3fe11ab"
   },
   {
     "url": "images/darwish.jpg",
@@ -474,6 +490,34 @@ self.__precacheManifest = [
     "revision": "3f202f49d02bcd031f454ddc8f2964e8"
   },
   {
+    "url": "images/hachildhood.jpg",
+    "revision": "93a3bb92a93fcf1ac35eaf5ffd02772c"
+  },
+  {
+    "url": "images/hacore.jpg",
+    "revision": "6154561b6e038f49e36a823cfc33ce25"
+  },
+  {
+    "url": "images/hacreation.jpg",
+    "revision": "c70e82718528364c4eeec636abb954d3"
+  },
+  {
+    "url": "images/hafamily.jpg",
+    "revision": "3f0952d8335264548adc1d00e71702f0"
+  },
+  {
+    "url": "images/hahome.jpg",
+    "revision": "61609de57a0f30a41eebc393aff33536"
+  },
+  {
+    "url": "images/hame.jpg",
+    "revision": "1e8fc413203580836b39a3a898399825"
+  },
+  {
+    "url": "images/hatrauma.jpg",
+    "revision": "19a8e93a3b9adb1288d6ebac7e82c5e0"
+  },
+  {
     "url": "images/icon-down-arrow.png",
     "revision": "077613251f4f68c2c8e07f7bda643a86"
   },
@@ -510,6 +554,10 @@ self.__precacheManifest = [
     "revision": "6e82055b409889b3db66cbd278dea64a"
   },
   {
+    "url": "images/kingdom-spheres.jpg",
+    "revision": "d6959b0d955ccb5abe98909eccf19f9d"
+  },
+  {
     "url": "images/kissing.jpg",
     "revision": "9bd8030c6c78c6a292a9f73c1e561610"
   },
@@ -520,6 +568,10 @@ self.__precacheManifest = [
   {
     "url": "images/legend-composition.jpg",
     "revision": "a4bfe1b9a960a620e9d401bacff3f7bd"
+  },
+  {
+    "url": "images/map-body-of-soul.jpg",
+    "revision": "2829744c4b74b0281d75e55ab039935e"
   },
   {
     "url": "images/merkavah-arrows.jpg",
@@ -698,8 +750,24 @@ self.__precacheManifest = [
     "revision": "3173060aee833c95a9cc11d7d0800883"
   },
   {
+    "url": "images/principles-pulsetherapy.jpg",
+    "revision": "dc957535dc106d7f757457cc9263e210"
+  },
+  {
     "url": "images/sanity.jpg",
     "revision": "75c44bc76eba1408f7e1997e5e049197"
+  },
+  {
+    "url": "images/shelter-parvati.jpg",
+    "revision": "b42264d9453bd9f9c629ab23e5daa2cd"
+  },
+  {
+    "url": "images/shelter-sinai.jpg",
+    "revision": "7c81a7f12df4a6dc34ed95b5e62f3602"
+  },
+  {
+    "url": "images/space-school.jpg",
+    "revision": "dc5ad0d388d7dc470b4d6c2843a095dd"
   },
   {
     "url": "images/spacer.png",
@@ -723,23 +791,27 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "80e75e82f0abb973feae5e4eb7bb62f2"
+    "revision": "8b1f477fbaacf36a4bbfc679a52f3ff7"
   },
   {
     "url": "mishvaot-hapeima/index.html",
-    "revision": "ca0a1be1d00f325615d1c91c1dc7ac6b"
+    "revision": "2e348ab0314bc769fc13fe6bf245c4d1"
   },
   {
     "url": "rosetta-stone/index.html",
-    "revision": "5595e1e7c85269f69033dfc067b48265"
+    "revision": "6643e9656668b76b21bdea8d5b47fd9e"
   },
   {
     "url": "sefer-yetzira/index.html",
-    "revision": "0a7bd948f1b3a334509cdf5c5d4a9c70"
+    "revision": "d77c4b23967cda6d4080b994b097a072"
+  },
+  {
+    "url": "sipur-hayahhid/index.html",
+    "revision": "61ae7b0bb6d775af08392fdcbbe03da0"
   },
   {
     "url": "slideshow/index.html",
-    "revision": "37ba07ca9ccf8bf599dfccd045e8a4d8"
+    "revision": "7b22bb72b5088e124ab6f321f2ec0d0b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
