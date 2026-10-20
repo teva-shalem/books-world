@@ -27,215 +27,199 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a3c61d0a5bfd2833bec620f90eb08e93"
+    "revision": "cacd94a8ff44e1d983c27baf8eedc35b"
   },
   {
-    "url": "assets/css/0.styles.a51a41d0.css",
-    "revision": "2b0719730c0c3c98a16be5758b0c8cf4"
+    "url": "assets/css/0.styles.b5d5553c.css",
+    "revision": "142f76b855bf9479c222143ada42cec7"
   },
   {
-    "url": "assets/fonts/KaTeX_AMS-Regular.7f06b4e3.woff",
-    "revision": "7f06b4e30317f784d61d26686aed0ab2"
+    "url": "assets/fonts/KaTeX_AMS-Regular.2dbe16b4.ttf",
+    "revision": "2dbe16b4f4662798159f8d62c8d2509d"
   },
   {
-    "url": "assets/fonts/KaTeX_AMS-Regular.aaf4eee9.ttf",
-    "revision": "aaf4eee9fba9907d61c3935e0b6a54ae"
+    "url": "assets/fonts/KaTeX_AMS-Regular.38a68f7d.woff2",
+    "revision": "38a68f7d18d292349a6e802a66136eae"
   },
   {
-    "url": "assets/fonts/KaTeX_AMS-Regular.e78e28b4.woff2",
-    "revision": "e78e28b4834954df047e4925e9dbf354"
+    "url": "assets/fonts/KaTeX_AMS-Regular.7d307e83.woff",
+    "revision": "7d307e8337b9559e4040c5fb76819789"
   },
   {
-    "url": "assets/fonts/KaTeX_Caligraphic-Bold.021dd4dc.ttf",
-    "revision": "021dd4dc61ee5f5cdf315f43b48c094b"
+    "url": "assets/fonts/KaTeX_Caligraphic-Bold.33d26881.ttf",
+    "revision": "33d26881e4dd89321525c43b993f136c"
   },
   {
-    "url": "assets/fonts/KaTeX_Caligraphic-Bold.1e802ca9.woff",
-    "revision": "1e802ca9dedc4ed4e3c6f645e4316128"
+    "url": "assets/fonts/KaTeX_Caligraphic-Regular.5e7940b4.ttf",
+    "revision": "5e7940b4ed250e98a512f520e39c867d"
   },
   {
-    "url": "assets/fonts/KaTeX_Caligraphic-Bold.4ec58bef.woff2",
-    "revision": "4ec58befa687e9752c3c91cd9bcf1bcb"
+    "url": "assets/fonts/KaTeX_Fraktur-Bold.4de87d40.woff",
+    "revision": "4de87d40f0389255d975c69d45a0a7e7"
   },
   {
-    "url": "assets/fonts/KaTeX_Caligraphic-Regular.7edb53b6.woff2",
-    "revision": "7edb53b6693d75b8a2232481eea1a52c"
+    "url": "assets/fonts/KaTeX_Fraktur-Bold.7a3757c0.woff2",
+    "revision": "7a3757c0bfc580d91012d092ec8f06cb"
   },
   {
-    "url": "assets/fonts/KaTeX_Caligraphic-Regular.d3b46c3a.woff",
-    "revision": "d3b46c3a530116933081d9d74e3e9fe8"
+    "url": "assets/fonts/KaTeX_Fraktur-Bold.ed330126.ttf",
+    "revision": "ed330126290a846bf0bb78f61aa6a080"
   },
   {
-    "url": "assets/fonts/KaTeX_Caligraphic-Regular.d49f2d55.ttf",
-    "revision": "d49f2d55ce4f40f982d8ba63d746fbf9"
+    "url": "assets/fonts/KaTeX_Fraktur-Regular.450cc4d9.woff2",
+    "revision": "450cc4d9319c4a438dd00514efac941b"
   },
   {
-    "url": "assets/fonts/KaTeX_Fraktur-Bold.a31e7cba.ttf",
-    "revision": "a31e7cba7b7221ebf1a2ae545fb306b2"
+    "url": "assets/fonts/KaTeX_Fraktur-Regular.82d05fe2.ttf",
+    "revision": "82d05fe2abb0da9d1077110efada0f6e"
   },
   {
-    "url": "assets/fonts/KaTeX_Fraktur-Bold.c4c8cab7.woff",
-    "revision": "c4c8cab7d5be97b2bb283e531c077355"
+    "url": "assets/fonts/KaTeX_Fraktur-Regular.dc4e330b.woff",
+    "revision": "dc4e330b6334767a16619c60d9ebce8c"
   },
   {
-    "url": "assets/fonts/KaTeX_Fraktur-Bold.d5b59ec9.woff2",
-    "revision": "d5b59ec9764e10f4a82369ae29f3ac58"
+    "url": "assets/fonts/KaTeX_Main-Bold.2e1915b1.ttf",
+    "revision": "2e1915b1a2f33c8ca9d1534193e934d7"
   },
   {
-    "url": "assets/fonts/KaTeX_Fraktur-Regular.32a5339e.woff2",
-    "revision": "32a5339eb809f381a7357ba56f82aab3"
+    "url": "assets/fonts/KaTeX_Main-Bold.62c69756.woff",
+    "revision": "62c69756b3f1ca7b52fea2bea1030cd2"
   },
   {
-    "url": "assets/fonts/KaTeX_Fraktur-Regular.a48dad4f.ttf",
-    "revision": "a48dad4f58c82e38a10da0ceebb86370"
+    "url": "assets/fonts/KaTeX_Main-Bold.78b0124f.woff2",
+    "revision": "78b0124fc13059862cfbe4c95ff68583"
   },
   {
-    "url": "assets/fonts/KaTeX_Fraktur-Regular.b7d9c46b.woff",
-    "revision": "b7d9c46bff5d51da6209e355cc4a235d"
+    "url": "assets/fonts/KaTeX_Main-BoldItalic.0d817b48.ttf",
+    "revision": "0d817b487b7fc993bda7dddba745d497"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Bold.22086eb5.woff",
-    "revision": "22086eb5d97009c3e99bcc1d16ce6865"
+    "url": "assets/fonts/KaTeX_Main-BoldItalic.a2e3dcd2.woff",
+    "revision": "a2e3dcd2316f5002ee2b5f35614849a8"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Bold.8e1e01c4.woff2",
-    "revision": "8e1e01c4b1207c0a383d9a2b4f86e637"
+    "url": "assets/fonts/KaTeX_Main-BoldItalic.c7213ceb.woff2",
+    "revision": "c7213ceb79250c2ca46cc34ff3b1aa49"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Bold.9ceff51b.ttf",
-    "revision": "9ceff51b3cb7ce6eb4e8efa8163a1472"
+    "url": "assets/fonts/KaTeX_Main-Italic.081073fd.woff",
+    "revision": "081073fd6a7c66073ad231db887de944"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-BoldItalic.284a17fe.woff2",
-    "revision": "284a17fe5baf72ff8217d4c7e70c0f82"
+    "url": "assets/fonts/KaTeX_Main-Italic.767e06e1.ttf",
+    "revision": "767e06e1df6abd16e092684bffa71c38"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-BoldItalic.4c57dbc4.woff",
-    "revision": "4c57dbc44bfff1fdf08a59cf556fdab3"
+    "url": "assets/fonts/KaTeX_Main-Italic.eea32672.woff2",
+    "revision": "eea32672f64250e9d1dfb68177c20a26"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-BoldItalic.e8b44b99.ttf",
-    "revision": "e8b44b990516dab7937bf240fde8b46a"
+    "url": "assets/fonts/KaTeX_Main-Regular.689bbe6b.ttf",
+    "revision": "689bbe6b67f22ffb51b15cc6cfa8facf"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Italic.29c86397.ttf",
-    "revision": "29c86397e75cdcb3135af8295f1c2e28"
+    "url": "assets/fonts/KaTeX_Main-Regular.756fad0d.woff",
+    "revision": "756fad0d6f3dff1062cfa951751d744c"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Italic.99be0e10.woff",
-    "revision": "99be0e10c38cd42466e6fe1665ef9536"
+    "url": "assets/fonts/KaTeX_Main-Regular.f30e3b21.woff2",
+    "revision": "f30e3b213e9a74cf7563b0c3ee878436"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Italic.e533d5a2.woff2",
-    "revision": "e533d5a2506cf053cd671b335ec04dde"
+    "url": "assets/fonts/KaTeX_Math-BoldItalic.753ca3df.woff2",
+    "revision": "753ca3dfa44302604bec8e08412ad1c1"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Regular.5c734d78.woff2",
-    "revision": "5c734d78610fa35282f3379f866707f2"
+    "url": "assets/fonts/KaTeX_Math-BoldItalic.b3e80ff3.woff",
+    "revision": "b3e80ff3816595ffb07082257d30b24f"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Regular.5c94aef4.ttf",
-    "revision": "5c94aef490324b0925dbe5f643e8fd04"
+    "url": "assets/fonts/KaTeX_Math-BoldItalic.d9377b53.ttf",
+    "revision": "d9377b53f267ef7669fbcce45a74d4c7"
   },
   {
-    "url": "assets/fonts/KaTeX_Main-Regular.b741441f.woff",
-    "revision": "b741441f6d71014d0453ca3ebc884dd4"
+    "url": "assets/fonts/KaTeX_Math-Italic.0343f93e.ttf",
+    "revision": "0343f93ed09558b81aaca43fc4386462"
   },
   {
-    "url": "assets/fonts/KaTeX_Math-BoldItalic.9a2834a9.ttf",
-    "revision": "9a2834a9ff8ab411153571e0e55ac693"
+    "url": "assets/fonts/KaTeX_Math-Italic.2a39f382.woff2",
+    "revision": "2a39f3827133ad0aeb2087d10411cbf2"
   },
   {
-    "url": "assets/fonts/KaTeX_Math-BoldItalic.b13731ef.woff",
-    "revision": "b13731ef4e2bfc3d8d859271e39550fc"
+    "url": "assets/fonts/KaTeX_Math-Italic.67710bb2.woff",
+    "revision": "67710bb2357b8ee5c04d169dc440c69d"
   },
   {
-    "url": "assets/fonts/KaTeX_Math-BoldItalic.d747bd1e.woff2",
-    "revision": "d747bd1e7a6a43864285edd73dcde253"
+    "url": "assets/fonts/KaTeX_SansSerif-Bold.59b37733.woff2",
+    "revision": "59b3773389adfb2b21238892c08322ca"
   },
   {
-    "url": "assets/fonts/KaTeX_Math-Italic.291e76b8.ttf",
-    "revision": "291e76b8871b84560701bd29f9d1dcc7"
+    "url": "assets/fonts/KaTeX_SansSerif-Bold.dfcc59ad.ttf",
+    "revision": "dfcc59ad994a0513b07ef3309b8b5159"
   },
   {
-    "url": "assets/fonts/KaTeX_Math-Italic.4ad08b82.woff2",
-    "revision": "4ad08b826b8065e1eab85324d726538c"
+    "url": "assets/fonts/KaTeX_SansSerif-Bold.f28c4fa2.woff",
+    "revision": "f28c4fa28f596796702fea3716d82052"
   },
   {
-    "url": "assets/fonts/KaTeX_Math-Italic.f0303906.woff",
-    "revision": "f0303906c2a67ac63bf1e8ccd638a89e"
+    "url": "assets/fonts/KaTeX_SansSerif-Italic.3ab5188c.ttf",
+    "revision": "3ab5188c9aadedf425ea63c6b6568df7"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Bold.3fb41955.woff",
-    "revision": "3fb419559955e3ce75619f1a5e8c6c84"
+    "url": "assets/fonts/KaTeX_SansSerif-Italic.99ad93a4.woff2",
+    "revision": "99ad93a4600c7b00b961d70943259032"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Bold.6e0830be.woff2",
-    "revision": "6e0830bee40435e72165345e0682fbfc"
+    "url": "assets/fonts/KaTeX_SansSerif-Italic.9d0fdf5d.woff",
+    "revision": "9d0fdf5d7d27b0e3bdc740d90b40ec57"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Bold.7dc027cb.ttf",
-    "revision": "7dc027cba9f7b11ec92af4a311372a85"
+    "url": "assets/fonts/KaTeX_SansSerif-Regular.6c3bd5b5.woff",
+    "revision": "6c3bd5b57f7eba215a2d37e2e28077f1"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Italic.4059868e.ttf",
-    "revision": "4059868e460d2d2e6be18e180d20c43d"
+    "url": "assets/fonts/KaTeX_SansSerif-Regular.badf3598.woff2",
+    "revision": "badf3598c22478fd9155a49391ecd396"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Italic.727a9b0d.woff",
-    "revision": "727a9b0d97d72d2fc0228fe4e07fb4d8"
+    "url": "assets/fonts/KaTeX_SansSerif-Regular.d511ebce.ttf",
+    "revision": "d511ebcef253ab53775576f28315f350"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Italic.fba01c9c.woff2",
-    "revision": "fba01c9c6fb2866a0f95bcacb2c187a5"
+    "url": "assets/fonts/KaTeX_Script-Regular.082640ca.ttf",
+    "revision": "082640ca4242bb2aade86855e4d7d5f6"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Regular.2555754a.woff",
-    "revision": "2555754a67062cac3a0913b715ab982f"
+    "url": "assets/fonts/KaTeX_Script-Regular.4edf4e0f.woff",
+    "revision": "4edf4e0fd49c8a5680dd541c05f16a4c"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Regular.5c58d168.ttf",
-    "revision": "5c58d168c0b66d2c32234a6718e74dfb"
+    "url": "assets/fonts/KaTeX_Script-Regular.af7bc98b.woff2",
+    "revision": "af7bc98b2200573686405dc784f53cf2"
   },
   {
-    "url": "assets/fonts/KaTeX_SansSerif-Regular.d929cd67.woff2",
-    "revision": "d929cd671b19f0cfea55b6200fb47461"
+    "url": "assets/fonts/KaTeX_Size1-Regular.2c2dc3b0.ttf",
+    "revision": "2c2dc3b057bb48b80bc785ac3d87ecf8"
   },
   {
-    "url": "assets/fonts/KaTeX_Script-Regular.755e2491.woff2",
-    "revision": "755e2491f13b5269f0afd5a56f7aa692"
+    "url": "assets/fonts/KaTeX_Size2-Regular.114ad198.ttf",
+    "revision": "114ad19833311359052ad1a174159262"
   },
   {
-    "url": "assets/fonts/KaTeX_Script-Regular.d12ea9ef.ttf",
-    "revision": "d12ea9efb375f9dc331f562e69892638"
+    "url": "assets/fonts/KaTeX_Size4-Regular.70174da7.ttf",
+    "revision": "70174da79d1707501c10e07872e84667"
   },
   {
-    "url": "assets/fonts/KaTeX_Script-Regular.d524c9a5.woff",
-    "revision": "d524c9a5b62a17f98f4a97af37fea735"
+    "url": "assets/fonts/KaTeX_Typewriter-Regular.35fe2cce.ttf",
+    "revision": "35fe2cce0791c276b8e919decd873f5b"
   },
   {
-    "url": "assets/fonts/KaTeX_Size1-Regular.7342d45b.ttf",
-    "revision": "7342d45b052c3a2abc21049959fbab7f"
+    "url": "assets/fonts/KaTeX_Typewriter-Regular.53dcf861.woff",
+    "revision": "53dcf861876aae6f3a6a6004dc3bc758"
   },
   {
-    "url": "assets/fonts/KaTeX_Size2-Regular.eb130dcc.ttf",
-    "revision": "eb130dcc661de766c999c60ba1525a88"
-  },
-  {
-    "url": "assets/fonts/KaTeX_Size4-Regular.ad767252.ttf",
-    "revision": "ad7672524b64b730dfd176140a8945cb"
-  },
-  {
-    "url": "assets/fonts/KaTeX_Typewriter-Regular.25702356.ttf",
-    "revision": "257023560753aeb0b89b7e434d3da17f"
-  },
-  {
-    "url": "assets/fonts/KaTeX_Typewriter-Regular.3fe216d2.woff",
-    "revision": "3fe216d2a5f736c560cde71984554b64"
-  },
-  {
-    "url": "assets/fonts/KaTeX_Typewriter-Regular.6cc31ea5.woff2",
-    "revision": "6cc31ea5c223c88705a13727a71417fa"
+    "url": "assets/fonts/KaTeX_Typewriter-Regular.641339e2.woff2",
+    "revision": "641339e2cd86c7816bfb8028ee7f86e0"
   },
   {
     "url": "assets/fonts/ShofarRegular.f4e6d5ee.ttf",
@@ -246,148 +230,144 @@ self.__precacheManifest = [
     "revision": "b91783bbb41395b47c9af2b74c43e1a7"
   },
   {
-    "url": "assets/js/10.bff6c001.js",
-    "revision": "ba6f1c30b8ad89356e27a9d4a2594513"
+    "url": "assets/js/10.fcbdca5d.js",
+    "revision": "4f0c3dd8c48e471929270bb2722a4575"
   },
   {
-    "url": "assets/js/11.be5cc6e4.js",
-    "revision": "d69d152229114b6a12629e91b6e35dfc"
+    "url": "assets/js/11.84903c57.js",
+    "revision": "7791b9d490a6d0081c97da247275298c"
   },
   {
-    "url": "assets/js/12.55f4fe16.js",
-    "revision": "7b9dbb3bac479b5316b19d752d19ec54"
+    "url": "assets/js/12.34ff269d.js",
+    "revision": "020ccbca3b1ad2cdcc17ae607dadefc1"
   },
   {
-    "url": "assets/js/13.49f96bc4.js",
-    "revision": "cd4592d055242f5f3a4ed5cca415b27a"
+    "url": "assets/js/13.0d2e7277.js",
+    "revision": "ee5f7f25f45a060713d23c3ca7475d41"
   },
   {
-    "url": "assets/js/14.758e131b.js",
-    "revision": "15cb07c2da672ba750445cdf641610ec"
+    "url": "assets/js/14.f533d0a8.js",
+    "revision": "28e58dda9ac9a2948e0394f9e088da48"
   },
   {
-    "url": "assets/js/15.aeb79510.js",
-    "revision": "6cb091a584c5596cdd033725b377688d"
+    "url": "assets/js/15.993ca55f.js",
+    "revision": "faf1311001d9ec23b3384cdef9df5c4e"
   },
   {
-    "url": "assets/js/16.afd5d3c6.js",
-    "revision": "87619cf320b602458c6fa7ae05bda91e"
+    "url": "assets/js/16.2610e7b2.js",
+    "revision": "646ca8631e349093f5316c93fb984bad"
   },
   {
-    "url": "assets/js/17.c6a34907.js",
-    "revision": "8e82d1e59837466371a74a36a743d08d"
+    "url": "assets/js/17.0772fe62.js",
+    "revision": "bf0c05c095e6bc6e2bd9bbbeee429ca3"
   },
   {
-    "url": "assets/js/18.d98557b4.js",
-    "revision": "8cf346fba89fa26af1292763ee67c910"
+    "url": "assets/js/18.d28ed36f.js",
+    "revision": "402b29e950e7a01205118bcdee2d2f5c"
   },
   {
-    "url": "assets/js/19.90e1cdc3.js",
-    "revision": "b52fab41713b9245212a21a7cd94b8ec"
+    "url": "assets/js/19.9958a2fd.js",
+    "revision": "09264cd17d1144f1e6c27324c06bbff1"
   },
   {
-    "url": "assets/js/2.184ebcf4.js",
-    "revision": "9819f5ef024c392b6190efba90d77b4d"
+    "url": "assets/js/2.082c11cc.js",
+    "revision": "dc64f71cf9fe9b317d22956857cfb7b2"
   },
   {
-    "url": "assets/js/20.556d0292.js",
-    "revision": "e0cf6e0f8fb85bd6d44ce04d7fb39a14"
+    "url": "assets/js/20.fa44f587.js",
+    "revision": "370665efeaa557dc7d9b1c7be1c95eec"
   },
   {
-    "url": "assets/js/21.4f4904db.js",
-    "revision": "695bc829c551632b2a524e825d2beb4e"
+    "url": "assets/js/21.3a268428.js",
+    "revision": "52e6f9b96ebdf37b6007d9e9564ce5d2"
   },
   {
-    "url": "assets/js/22.151a354a.js",
-    "revision": "ddc3128f5a07ef5ca42768cd5152a18d"
+    "url": "assets/js/22.185133e0.js",
+    "revision": "12053d51079c91945a8967febae287d1"
   },
   {
-    "url": "assets/js/23.5546f779.js",
-    "revision": "a0075bb4c95507b81b2ffdbb996c83bc"
+    "url": "assets/js/23.a28b94fd.js",
+    "revision": "a2383956bff0dd4ff60cc6fe66e587ee"
   },
   {
-    "url": "assets/js/24.3a4c0635.js",
-    "revision": "808df5d06c9f0aecca3ab0d42acaa7c5"
+    "url": "assets/js/24.fac6f569.js",
+    "revision": "1157575b0f80eab2455574b6fa65aec1"
   },
   {
-    "url": "assets/js/25.fd4c8ab9.js",
-    "revision": "1c4393c66eb47a230c1448129e980732"
+    "url": "assets/js/25.4dbf8707.js",
+    "revision": "77708e616b0430adde39b90a6a290256"
   },
   {
-    "url": "assets/js/26.72d686e5.js",
-    "revision": "9312b182592a3e970958a647d10beea5"
+    "url": "assets/js/26.e827274f.js",
+    "revision": "af3c574f47ebf8e60c7d8707df74fbb9"
   },
   {
-    "url": "assets/js/27.236e1394.js",
-    "revision": "3c151e0dee3ff11be84fbc30240db03f"
+    "url": "assets/js/27.4d19610c.js",
+    "revision": "45dc184ee110267512c88cd03ab97cb7"
   },
   {
-    "url": "assets/js/28.6f6774df.js",
-    "revision": "2c677ad72e1e0df432a2537eb116ee8b"
+    "url": "assets/js/28.8692b0f1.js",
+    "revision": "404b6c34004b0c5cfb90381f0ad25618"
   },
   {
-    "url": "assets/js/29.0fcc7ee3.js",
-    "revision": "d506c8d6d45d9d3b6d9e4de7972c3830"
+    "url": "assets/js/29.f4c47d20.js",
+    "revision": "46ecaa8f91af91ed2849d9f51c9288cb"
   },
   {
-    "url": "assets/js/3.205ef805.js",
-    "revision": "30ffdb622a742256fb0e91e393f7a4d4"
+    "url": "assets/js/3.b60206c1.js",
+    "revision": "299c95080875f5e01712528f4a58fb12"
   },
   {
-    "url": "assets/js/30.8a52c21a.js",
-    "revision": "3e595b9da8ae371f56f79a3cc4698264"
+    "url": "assets/js/30.9bec8fac.js",
+    "revision": "30a2ef11aa409a20f646a00c7cfb69e3"
   },
   {
-    "url": "assets/js/31.c5d85179.js",
-    "revision": "03f08c7b7717f78fb84bcaf939920b14"
+    "url": "assets/js/31.519eee6b.js",
+    "revision": "a7043984b58b8595d3816057c7e92342"
   },
   {
-    "url": "assets/js/32.ca451c1c.js",
-    "revision": "bbc27f55753d2697f72895afc83bc5dc"
+    "url": "assets/js/32.9c6cb4a4.js",
+    "revision": "830b6876c729425bb4af704ada0cc458"
   },
   {
-    "url": "assets/js/33.8108ba5a.js",
-    "revision": "52335808d463d2de6b1cfc05667c5135"
+    "url": "assets/js/33.654bbfa1.js",
+    "revision": "7bf2259e456342b491aa7549408c8c1d"
   },
   {
-    "url": "assets/js/34.9caecc95.js",
-    "revision": "40a5467ae1c3c02be931c32558070768"
+    "url": "assets/js/4.1380b62f.js",
+    "revision": "64265c6804aaa971872bd42b84ee6db7"
   },
   {
-    "url": "assets/js/4.995704fd.js",
-    "revision": "27fa35911aeffb4efdc88ddea214f245"
+    "url": "assets/js/5.f888549e.js",
+    "revision": "8f0a19c92eac1a3e4e9afb71587defc6"
   },
   {
-    "url": "assets/js/5.5506fbe1.js",
-    "revision": "52e82b5728210a0552a65f109ef5cfc3"
+    "url": "assets/js/6.a55d4225.js",
+    "revision": "0c678dd1c7859b62c5863ec96894e64a"
   },
   {
-    "url": "assets/js/6.2bc4439c.js",
-    "revision": "670553a3d24693db644030940578f85d"
+    "url": "assets/js/7.07acb131.js",
+    "revision": "4161d4aa898524ab892941a3fe6ea800"
   },
   {
-    "url": "assets/js/7.d2ce288a.js",
-    "revision": "a092698904dd46eab8b2f535b1d5387c"
+    "url": "assets/js/8.ca7b5b1b.js",
+    "revision": "95ae183c8138da167554a2508a689e3e"
   },
   {
-    "url": "assets/js/8.647171e2.js",
-    "revision": "f3f7ade4d9384d7c0d64614aaae23b88"
+    "url": "assets/js/9.12b2bf62.js",
+    "revision": "ed5e793f0858ed49d7f087bf5ec6e35c"
   },
   {
-    "url": "assets/js/9.3ffc3e5a.js",
-    "revision": "31b887112f66a7c656a6fcc730220bd5"
-  },
-  {
-    "url": "assets/js/app.e23af664.js",
-    "revision": "168052e4def6a66bdb75a66709745cf9"
+    "url": "assets/js/app.ec98fa42.js",
+    "revision": "9e67d8c421241c8a8f649d4048e5a050"
   },
   {
     "url": "composition-book/index.html",
-    "revision": "666af517bcaba75d56eebde27f210094"
+    "revision": "3ee3ddaff0afe3b69b62521ebb9c2e83"
   },
   {
     "url": "derech-hapeima/index.html",
-    "revision": "8c76951709cb83bdac9aad102f193465"
+    "revision": "6f83d3aa1b3a0bebe02e328843119f45"
   },
   {
     "url": "images/applicative-philosophy.jpg",
@@ -646,6 +626,38 @@ self.__precacheManifest = [
     "revision": "dcfed7e0bbb29357c33003a41cfb002f"
   },
   {
+    "url": "images/ndd/Air.svg",
+    "revision": "1c555cca3f5a21e81318a60058783560"
+  },
+  {
+    "url": "images/ndd/Dot.svg",
+    "revision": "b3f1c6bef11a504641ca2fb27157bd54"
+  },
+  {
+    "url": "images/ndd/Eternity.svg",
+    "revision": "9123157d8fb355371d62ca5908c513fd"
+  },
+  {
+    "url": "images/ndd/Fire.svg",
+    "revision": "4bbe8b2a250413b2f13523ffeb0ba003"
+  },
+  {
+    "url": "images/ndd/Insight.svg",
+    "revision": "f38a31c85dec690d7fff02805535913a"
+  },
+  {
+    "url": "images/ndd/Love.svg",
+    "revision": "7b9e7afbce7299ed7bb7a82049af0a8c"
+  },
+  {
+    "url": "images/ndd/Pulse.svg",
+    "revision": "09878a9e4e51fc4aac0851cd224ad19d"
+  },
+  {
+    "url": "images/ndd/Water.svg",
+    "revision": "12aea4a2423dedf8adf25b6f9ecc69ff"
+  },
+  {
     "url": "images/ndd/ג.svg",
     "revision": "7e13a40d4b3928707dc613e7d3e784e3"
   },
@@ -718,38 +730,6 @@ self.__precacheManifest = [
     "revision": "4b2b89c0acb665803dc0a610dafe7f1b"
   },
   {
-    "url": "images/ndd/Air.svg",
-    "revision": "1c555cca3f5a21e81318a60058783560"
-  },
-  {
-    "url": "images/ndd/Dot.svg",
-    "revision": "b3f1c6bef11a504641ca2fb27157bd54"
-  },
-  {
-    "url": "images/ndd/Eternity.svg",
-    "revision": "9123157d8fb355371d62ca5908c513fd"
-  },
-  {
-    "url": "images/ndd/Fire.svg",
-    "revision": "4bbe8b2a250413b2f13523ffeb0ba003"
-  },
-  {
-    "url": "images/ndd/Insight.svg",
-    "revision": "f38a31c85dec690d7fff02805535913a"
-  },
-  {
-    "url": "images/ndd/Love.svg",
-    "revision": "7b9e7afbce7299ed7bb7a82049af0a8c"
-  },
-  {
-    "url": "images/ndd/Pulse.svg",
-    "revision": "09878a9e4e51fc4aac0851cd224ad19d"
-  },
-  {
-    "url": "images/ndd/Water.svg",
-    "revision": "12aea4a2423dedf8adf25b6f9ecc69ff"
-  },
-  {
     "url": "images/nostalgia.jpg",
     "revision": "fa8f3a9f0a5a378edc93c1045b61816e"
   },
@@ -807,31 +787,31 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b4800fd9c216450a944286aca2f1b9fa"
+    "revision": "39f38b46923230f9876db6c3d3d567c0"
   },
   {
     "url": "mishvaot-hapeima/index.html",
-    "revision": "5f6f85ba7b3bec083ceaaa0001bbe22e"
+    "revision": "cd688b9ead9396878074a5509449857e"
   },
   {
     "url": "rosetta-stone/index.html",
-    "revision": "c9ba64f2695781d475b5900b05527817"
+    "revision": "2df0b4202672f13f78534c1bd2458147"
   },
   {
     "url": "sefer-yetzira/index.html",
-    "revision": "3935747fd87bfbf9fcf297359a2b83e7"
+    "revision": "68f78fd27be5be77ebfee77c3780e4f9"
   },
   {
     "url": "sipur-hayahhid/index.html",
-    "revision": "7d118298b9d3dcd0893f3273a9ea584c"
+    "revision": "c95f7835316976643ab30fd6f26229e6"
   },
   {
     "url": "slideshow/index.html",
-    "revision": "f7ab5de02b26dbdc11248f81162af0b5"
+    "revision": "ab00616eb9105162119aa172770f90a0"
   },
   {
     "url": "sod-haiibur/index.html",
-    "revision": "f3478b71987ba70655b440e089017988"
+    "revision": "59274d95323903a739574729c0b86bf6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
